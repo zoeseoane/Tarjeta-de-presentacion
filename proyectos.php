@@ -5,7 +5,7 @@ $pg="proyectos";
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
+
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, inital-scale=1.0">
@@ -21,7 +21,7 @@ $pg="proyectos";
         <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
       
     </head>
-</head>
+<
 
 <body id="Proyecto">
  
